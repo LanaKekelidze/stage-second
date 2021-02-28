@@ -21,7 +21,7 @@ li {
   margin-top: 10px;
 }
 /* seqtion1 */
-/* .seqtion-bg {
+.seqtion-bg {
   display: flex;
 }
 .big-box {
@@ -38,7 +38,7 @@ li {
     align-items: center;
     flex-direction: column;
 }
-.wraper-box {
+/* .wraper-box {
   width: 608px;
 }
 .title1 {
